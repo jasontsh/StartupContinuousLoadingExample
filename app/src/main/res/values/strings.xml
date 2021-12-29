@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadingStartupExample</string>
+    <string name="preference_key">shared_preference</string>
+    <string name="fail_text">Failed loading</string>
+</resources>
